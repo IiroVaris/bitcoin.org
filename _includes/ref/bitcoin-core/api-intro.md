@@ -17,8 +17,7 @@ normal byte order. For example, the Unix `sha256sum` command would display the
 SHA256(SHA256()) hash of mainnet block 300,000's header as the
 following string:
 
-    5472ac8b1187bfcf91d6d218bbda1eb2405d7c55f1f8cc820000000000000000
-
+035e9b05384d2f04fa7cb85508a024871b109100000f5b4254434368696e612e636f6d5d20
 The string above is also how the hash appears in the
 previous-header-hash part of block 300,001's header:
 
